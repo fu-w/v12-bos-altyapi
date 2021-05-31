@@ -9,7 +9,7 @@ exports.run = (client, message, params) => {
   .setTitle("SANCTUS YARDIM MENÜSÜ")
   .addField(".**komut**", `kendiniz yazınız`)
   .addField(".**komut**", `kendiniz yazınız`)
-  .addField(".**komut**", `kendiniz yazınız`)
+  .addField(".**komut**", `kendiniz yazınız`) //Yakında Müq Bir Sistem Geliyor Hazrıda Kalın
   .addField(".**komut**", `kendiniz yazınız`)
   .addField(".**komut**", `kendiniz yazınız`)
   .addField(".**komut**", `kendiniz yazınız`)
