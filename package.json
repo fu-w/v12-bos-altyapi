@@ -1,0 +1,32 @@
+{
+  "name": "sanctus-bosaltyapi",
+  "version": "0.0.1",
+  "description": "A simple Node app built on fastify, instantly up and running.",
+  "main": "sanctus.js",
+  "scripts": {
+    "start": "node sanctus.js"
+  },
+  "dependencies": {
+    "fastify": "^3.14.1",
+    "fastify-formbody": "^5.0.0",
+    "fastify-static": "^4.0.0",
+    "handlebars": "^4.7.7",
+    "point-of-view": "^4.14.0",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
