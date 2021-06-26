@@ -19,3 +19,4 @@ exports.help = {
   description: "botun pingini gösterir.",
   usage: "ping"
 }//sanctus
+//https://discord.gg/cGXxZhBmmr
