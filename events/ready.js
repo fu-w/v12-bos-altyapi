@@ -18,3 +18,6 @@ module.exports = client => {
 
 
 //sanctus 
+
+
+//https://discord.gg/cGXxZhBmmr
