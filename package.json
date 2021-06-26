@@ -20,10 +20,4 @@
   "engines": {
     "node": "12.x"
   },
- "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
-}
+
