@@ -112,4 +112,4 @@ client.on('error', e => {
 
 
 
-client.login(process.env.token);
+client.login(process.env.token);//ayarlar.jsona eklemek isterseniz client.login(ayarlar.token) Yapmanız Yeter 
