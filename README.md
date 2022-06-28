@@ -1,6 +1,7 @@
 # bos-altyapi
-alt yapı bea
+V12 Boş Altyapı
+V12 Kullanan Kişiler İçin Bir Numara Boş Bir Altyapıdır
 
-Sanctus Code
-
-https://discord.gg/cGXxZhBmmr
+Furki Bot
+ https://discord.gg/aAAPyZ4HFT
+ 
